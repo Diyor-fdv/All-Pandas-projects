@@ -1,0 +1,12 @@
+Field	Description	Description
+0.0	"Spotify URI that uniquely identifies each track in the form of ""spotify:track:<base-62 string>"""	"Spotify URI that uniquely identifies each track in the form of ""spotify:track:<base-62 string>"""
+0.0	Timestamp indicating when the track stopped playing in UTC (Coordinated Universal Time)	Timestamp indicating when the track stopped playing in UTC (Coordinated Universal Time)
+0.0	Platform used when streaming the track	Platform used when streaming the track
+0.0	Number of milliseconds the stream was played	Number of milliseconds the stream was played
+0.0	Name of the track	Name of the track
+0.0	Name of the artist	Name of the artist
+0.0	Name of the album	Name of the album
+0.0	Why the track started	Why the track started
+0.0	Why the track ended	Why the track ended
+0.0	TRUE or FALSE depending on if shuffle mode was used when playing the track	TRUE or FALSE depending on if shuffle mode was used when playing the track
+0.0	TRUE of FALSE depending on if the user skipped to the next song	TRUE of FALSE depending on if the user skipped to the next song

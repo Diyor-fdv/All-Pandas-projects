@@ -1,0 +1,7 @@
+employee_id,name,department,salary,hire_date,gender,performance_score,bonus,years_experience,rolling_avg_salary
+101,Alice,HR,5000,2019-01-10,Female,3,500.0,6,
+102,Bob,IT,6000,2020-03-15,Male,4,300.0,5,
+103,Charlie,Finance,5500,2018-07-23,Male,5,550.0,7,5500.0
+104,David,IT,7000,2021-06-01,Male,2,350.0,4,6166.666666666667
+105,Eva,HR,4800,2017-11-30,Female,4,480.0,8,5766.666666666667
+106,Frank,Finance,6200,2022-02-20,Male,3,310.0,3,6000.0
