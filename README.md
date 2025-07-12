@@ -1,4 +1,5 @@
 Pandas Practice Project 
+datas are from kaggle 
 
  What’s inside?
  employee_data_practice.csv  Tiny synthetic dataset (6 rows) — IDs, names, department, salary, hire date, gender, performance score |
